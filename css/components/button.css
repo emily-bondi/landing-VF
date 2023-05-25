@@ -1,0 +1,9 @@
+.btn-blue {
+	background-color: #ED2967;
+	padding: 12px 16px;
+	border-radius: 8px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+}
